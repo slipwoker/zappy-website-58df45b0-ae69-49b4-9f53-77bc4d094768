@@ -7,77 +7,77 @@
 ## Pages
 
 ### בית
-https://-58df45b0.zappy5.app
+https://example.com
 גלו את גולאסו — מותג אופנה שממזג סטריטוור עכשווי עם ניחוח וינטג׳ ממגרשי הכדורגל. פריטים נועזים, גזרות מחמיאות ודפוסים אייקוניים שמכניסים טירוף של גול לכל הופעה. הצטרפו עכשיו למהפכת הסטייל.
 
 ### הסיפור שלנו
-https://-58df45b0.zappy5.app/brand-story
+https://example.com/brand-story
 מגרש הילדות פוגש מסלול תצוגה: הכירו את הד.נ.א של גולאסו, מותג אופנה שבנה את עצמו על תשוקה לכדורגל, טיפוגרפיה נוסטלגית וסטייל חסר פשרות. בואו לשמוע איך הפכנו אהבה למשחק להצהרה אופנתית.
 
 ### לוקבוק
-https://-58df45b0.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפו בלוקבוק הרשמי של גולאסו וקבלו השראה מלוקים שמשלבים חולצות גראפיות, השראות איצטדיון ואקססוריז נועזים. זה לא רק בגדים — זאת הצהרת כוונות. היכנסו לרחרח את הטרנדים החמים לעונה.
 
 ### קיימות
-https://-58df45b0.zappy5.app/sustainability
+https://example.com/sustainability
 בגולאסו אנחנו משחקים לפי חוקים ירוקים: בדים ממוחזרים, ייצור אתי ואריזות מתכלות. גלו איך מותג אופנה יכול להוביל שינוי אמיתי בלי להתפשר על סטייל. בואו להיות חלק מהקבוצה המנצחת של הכדור.
 
 ### שיתופי פעולה
-https://-58df45b0.zappy5.app/collaborations
+https://example.com/collaborations
 מועדוני עבר, אמנים גרפיים ויוצרי תוכן נפגשים עם גולאסו לקולקציות קפסולה מפוצצות באופי. הציצו בשיתופי הפעולה הכי לוהטים שלנו שמחברים בין עולם האופנה לאהבת הכדורגל. איזה שיתוף יהפוך אתכם לאוהדים שרופים?
 
 ### צור קשר
-https://-58df45b0.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מידות, הצעות לשיתוף פעולה או סתם בא לכם להגיד גולאסו? מלאו את הטופס ותנו לנו להחזיר לכם מסירה מדויקת. אנחנו זמינים לכל אוהד ואוהדת של סטייל. צרו קשר עוד היום והצטרפו למועדון.
 
 ### Products
-https://-58df45b0.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גולאסו
 
 ### Cart
-https://-58df45b0.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-58df45b0.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-58df45b0.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-58df45b0.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-58df45b0.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-58df45b0.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גולאסו
 
 ### Category
-https://-58df45b0.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גולאסו
 
 ### תודה - גולאסו
-https://-58df45b0.zappy5.app/thank-you
+https://example.com/thank-you
 גולאסו - תודה - גולאסו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-58df45b0.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-58df45b0.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-58df45b0.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-58df45b0.zappy5.app/sitemap.xml
-- Robots: https://-58df45b0.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-58df45b0.zappy5.app/llms-full.txt
-- Products (JSON): https://-58df45b0.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-58df45b0.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
